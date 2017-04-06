@@ -1,5 +1,5 @@
 # Sitecore.Support.67090
-[Wffm] UploadFil field token provides corrupted link in Send Email Message action
+UploadFile field token provides corrupted link in Send Email Message action.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.67090/blob/master/LICENSE).  
